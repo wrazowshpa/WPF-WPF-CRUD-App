@@ -118,6 +118,7 @@ namespace Question2
 
         private void DeleteStorePartner_Click(object sender, RoutedEventArgs e)
         {
+            indexTracker--;
             for (int i = 0; i < storePartnerList.Count; i++)
             {
                 if (listBox1.SelectedIndex == storePartnerList[i].IndexNumber)
@@ -128,8 +129,14 @@ namespace Question2
                     listBox1.ItemsSource = null;
                     listBox1.ItemsSource = stringListOfStorePartners;
                 }
+
+            }
+
+            for (int i = 0; i < storePartnerList.Count; i++)
+            {
                 storePartnerList[i].IndexNumber = i;
             }
+
         }
     }
 }
