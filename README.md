@@ -3,5 +3,5 @@ c#, assignment 2. WPF Apps. Question 1 is an invoice calculator, data binding co
 
 Question 1 Screenshots
 
-![alt text](a2q1.png)
-![alt text](a2q1-2.png)
+![alt text](a2q1.PNG)
+![alt text](a2q1-2.PNG)
