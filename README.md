@@ -8,6 +8,6 @@ Question 1 Screenshots
 
 Question 2 Screenshots
 ![alt text](a2q2.PNG)
-![alt text](a2q2-1.png)
-![alt text](a2q2-2.png)
-![alt text](a2q2-3.png)
+![alt text](a2q2-1.PNG)
+![alt text](a2q2-2.PNG)
+![alt text](a2q2-3.PNG)
