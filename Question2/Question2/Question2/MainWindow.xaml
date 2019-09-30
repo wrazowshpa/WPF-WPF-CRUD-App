@@ -1,0 +1,32 @@
+﻿<Window x:Class="Question2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Question2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="Id" HorizontalAlignment="Left" Margin="449,59,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contact Title" HorizontalAlignment="Left" Margin="449,142,0,0" VerticalAlignment="Top" RenderTransformOrigin="-3.086,-0.484"/>
+        <Label Content="Country" HorizontalAlignment="Left" Margin="449,235,0,0" VerticalAlignment="Top"/>
+        <Label Content="Contact Name" HorizontalAlignment="Left" Margin="449,116,0,0" VerticalAlignment="Top"/>
+        <Label Content="Company Name" HorizontalAlignment="Left" Margin="449,90,0,0" VerticalAlignment="Top"/>
+        <Label Content="City" HorizontalAlignment="Left" Margin="449,204,0,0" VerticalAlignment="Top"/>
+        <Label Content="Address" HorizontalAlignment="Left" Margin="449,173,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="idTextBox" HorizontalAlignment="Left" Height="23" Margin="620,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="companyNameTextBox" HorizontalAlignment="Left" Height="23" Margin="620,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="contactNameTextBox" HorizontalAlignment="Left" Height="23" Margin="620,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="addressTextBox" HorizontalAlignment="Left" Height="23" Margin="620,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="contactTitleTextBox" HorizontalAlignment="Left" Height="23" Margin="620,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="countryTextBox" HorizontalAlignment="Left" Height="23" Margin="620,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="cityTextBox" HorizontalAlignment="Left" Height="23" Margin="620,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBlock x:Name="companyNameTextBlock" HorizontalAlignment="Left" Margin="547,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="31" Width="193" FontSize="20"/>
+        <ListBox x:Name="listBox1" HorizontalAlignment="Left" Height="296" Margin="63,59,0,0" VerticalAlignment="Top" Width="213" SelectionChanged="ListBox1_SelectionChanged"/>
+        <Button x:Name="addStorePartner" Content="Add " HorizontalAlignment="Left" Margin="420,309,0,0" VerticalAlignment="Top" Width="75" Click="AddStorePartner_Click"/>
+        <Button x:Name="updateStorePartner" Content="Update" HorizontalAlignment="Left" Margin="547,309,0,0" VerticalAlignment="Top" Width="75" Click="UpdateStorePartner_Click"/>
+        <Button x:Name="deleteStorePartner" Content="Delete" HorizontalAlignment="Left" Margin="665,309,0,0" VerticalAlignment="Top" Width="75" Click="DeleteStorePartner_Click"/>
+
+    </Grid>
+</Window>
