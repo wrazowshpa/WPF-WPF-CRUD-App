@@ -40,6 +40,5 @@ C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assig
 C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assignments\assignment2\assignment2\Assignment-2\Question2\Question2\Question2\obj\Debug\Question2.g.resources
 C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assignments\assignment2\assignment2\Assignment-2\Question2\Question2\Question2\obj\Debug\Question2.Properties.Resources.resources
 C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assignments\assignment2\assignment2\Assignment-2\Question2\Question2\Question2\obj\Debug\Question2.csproj.GenerateResource.cache
-C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assignments\assignment2\assignment2\Assignment-2\Question2\Question2\Question2\obj\Debug\Question2.csproj.CoreCompileInputs.cache
 C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assignments\assignment2\assignment2\Assignment-2\Question2\Question2\Question2\obj\Debug\Question2.exe
 C:\Users\manso\OneDrive\Desktop\Soft Eng\Soft Eng Centennial\Programming 3\assignments\assignment2\assignment2\Assignment-2\Question2\Question2\Question2\obj\Debug\Question2.pdb

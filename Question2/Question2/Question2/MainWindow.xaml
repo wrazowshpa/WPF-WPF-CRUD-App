@@ -17,7 +17,6 @@
         <TextBox x:Name="idTextBox" HorizontalAlignment="Left" Height="23" Margin="620,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="companyNameTextBox" HorizontalAlignment="Left" Height="23" Margin="620,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="contactNameTextBox" HorizontalAlignment="Left" Height="23" Margin="620,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="addressTextBox" HorizontalAlignment="Left" Height="23" Margin="620,173,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="contactTitleTextBox" HorizontalAlignment="Left" Height="23" Margin="620,142,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="countryTextBox" HorizontalAlignment="Left" Height="23" Margin="620,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
